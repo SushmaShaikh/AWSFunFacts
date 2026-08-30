@@ -1,7 +1,7 @@
 # Fun Fact Generator
 
 A serverless app that pulls a random cloud-computing fact from DynamoDB and
-rewrites it in a witty voice using **Amazon Bedrock (Nova Micro)** — served
+rewrites it in a witty voice using **Amazon Bedrock (Nova Micro)** served
 through API Gateway to a frontend hosted on AWS Amplify.
 
 ## Architecture
