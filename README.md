@@ -6,7 +6,7 @@ through API Gateway to a frontend hosted on AWS Amplify.
 
 ## Architecture
 
-See <img width="1983" height="2412" alt="funfact_architecture" src="https://github.com/user-attachments/assets/4d63def2-4264-4f62-8a2f-f26e7bb20e42" />
+ <img width="1983" height="2412" alt="funfact_architecture" src="https://github.com/user-attachments/assets/4d63def2-4264-4f62-8a2f-f26e7bb20e42" />
  for the full
 Mermaid diagram (renders natively on GitHub), and
 [`article.md`](./article.md) for a full write-up of the build, the model
